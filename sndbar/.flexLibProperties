@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flexLibProperties version="1">
+<includeClasses>
+<classEntry path="com.sndbar.player.PlayerMode"/>
+<classEntry path="com.sndbar.events.TimerTickEvent"/>
+<classEntry path="com.sndbar.vo.TrackVO"/>
+<classEntry path="com.sndbar.events.ID3Event"/>
+<classEntry path="com.sndbar.player.AudioPlayer"/>
+<classEntry path="com.sndbar.player.PlayerVolume"/>
+<classEntry path="com.sndbar.utils.ID3DataReader"/>
+<classEntry path="com.sndbar.events.PlayerEvent"/>
+</includeClasses>
+<includeResources/>
+<namespaceManifests/>
+</flexLibProperties>
