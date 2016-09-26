@@ -10,7 +10,7 @@ The `AudioPlayer` class exposes the following methods:
 * `stopPlayer()` - Stops the audio and resets the play position to 0
 * `pausePlayer()` - Pauses the audio and saves the current play position
 * `setCurrentVolume()` - Set the volume
-* 'getCurrentVolume()' - Returnes the current volume
+* `getCurrentVolume()` - Returnes the current volume
 
 Implementation
 ==============
